@@ -1,0 +1,25 @@
+{
+  "name": "gusarov112/date-range",
+  "description": "A simple date-range class that holds valid range of two DateTimeImmutable objects",
+  "keywords": [
+    "generic",
+    "collection"
+  ],
+  "homepage": "http://github.com/gusarov112/date-range",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Anatolii Husarov",
+      "email": "gusar.atm@gmail.com"
+    }
+  ],
+  "require": {
+    "php": "^7.1",
+    "ext-json": "*"
+  },
+  "autoload": {
+    "psr-4": {
+      "Gusarov112\\DateRange\\": "src/"
+    }
+  }
+}
