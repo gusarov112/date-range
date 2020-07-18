@@ -2,7 +2,6 @@
 
 ## Installation
 
-```
 Than require package
 ```bash
 composer require gusarov112/date-range
