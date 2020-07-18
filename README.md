@@ -2,16 +2,6 @@
 
 ## Installation
 
-Add github repository to composer.json
-```json
-{
-   "repositories": [
-        {
-            "type": "vcs",
-            "url": "git@github.com:gusarov112/date-range.git"
-        }
-    ]
-}
 ```
 Than require package
 ```bash
